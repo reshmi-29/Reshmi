@@ -34,6 +34,60 @@
     </item>
     
     <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/my_resume/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my_resume/</guid>
+      <description>&lt;h2 id=&#34;profile-picture&#34;&gt;&lt;em&gt;PROFILE PICTURE&lt;/em&gt;&lt;/h2&gt;
+&lt;div style=&#34;text-align: left;&#34;&gt;
+  &lt;img src=&#34;tuska.jpg&#34; alt=&#34;Profile Picture&#34; style=&#34;width:150px; height:150px; border-radius:50%; border: 2px solid #ccc;&#34; /&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;profile&#34;&gt;&lt;em&gt;PROFILE&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;A motivated and results-oriented Computer Science and Engineering student, specializing in web design, AI, and computational graphics. Adept in multiple programming languages including C++ and C. Eager to apply my technical expertise and creativity in real-world projects while continuing to learn and grow.&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;&lt;em&gt;EDUCATION&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Bachelor of Science in Computer Science and Engineering&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Institution&lt;/em&gt;:  Jahangirnagar University&lt;/li&gt;
+&lt;li&gt;Expected Graduation: 2025&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Higher Secondary Certificate (HSC)&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Institution&lt;/em&gt;: Kushtia Govt. College&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Year&lt;/em&gt;: 2017–2019&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Grade&lt;/em&gt;: GPA 5.0/5.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Secondary School Certificate (SSC)&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Institution&lt;/em&gt;: Abdalpur High School&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Year&lt;/em&gt;: 2012–2017&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Grade&lt;/em&gt;: GPA 5.0/5.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;experience&#34;&gt;&lt;em&gt;EXPERIENCE&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Private Tutoring&lt;/em&gt;&lt;br&gt;
+Provided personalized academic support through private tuition, focusing on simplifying complex topics and fostering a deep understanding among students.&lt;/p&gt;
+&lt;h2 id=&#34;languages&#34;&gt;&lt;em&gt;LANGUAGES&lt;/em&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;English: Fluent&lt;/li&gt;
+&lt;li&gt;Bangla: Native&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;&lt;em&gt;SKILLS&lt;/em&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Programming Languages&lt;/em&gt;: C++, C&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Web Development&lt;/em&gt;: HTML, CSS, JavaScript, Hugo&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Graphics&lt;/em&gt;: OpenGL, GLUT&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tools &amp;amp; Technologies&lt;/em&gt;: Git, VS Code, GitHub, Git Bash&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Operating Systems&lt;/em&gt;: Linux, Windows&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contact-me&#34;&gt;&lt;em&gt;CONTACT ME&lt;/em&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Phone&lt;/em&gt;: 01781864628&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Email&lt;/em&gt;: [tuskakhatun6@gmail.com]&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Address&lt;/em&gt;: Savar, Dhaka, Bangladesh&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Survey form</title>
       <link>http://localhost:1313/project/survey_form/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
@@ -61,6 +115,71 @@ See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/&#34; t
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;div class=&#34;contact-section&#34;&gt;
+    &lt;h2&gt;Get in Touch&lt;/h2&gt;
+    &lt;h4&gt;I love to hear from you. Whether you have a question or just want to chat about design, tech &amp; art — shoot me a message.&lt;/h4&gt;
+    &lt;div class=&#34;contact-info&#34;&gt;
+        &lt;div&gt;
+            &lt;h4&gt;Reach me at&lt;/h4&gt;
+            &lt;h4&gt;&lt;a href=&#34;mailto:nareshmi1003@gmail.com&#34;&gt;nareshmi1003@gmail.com&lt;/a&gt;&lt;br&gt;+880 1315 776751&lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h4&gt;Social&lt;/h4&gt;
+            &lt;p&gt;
+                &lt;a href=&#34;https://github.com/reshmi-29&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt;,
+                &lt;a href=&#34;https://www.linkedin.com/in/nahida-akther-reshmi-6a8368329/&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt;,
+                &lt;a href=&#34;https://www.facebook.com/share/1G8wi46TDP/&#34; target=&#34;_blank&#34;&gt;Facebook&lt;/a&gt;
+            &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;say-hello-button&#34;&gt;
+        &lt;a href=&#34;mailto:nareshmi1003@gmail.com&#34; class=&#34;btn&#34;&gt;SAY HELLO.&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+body, html {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    
+}
+
+.contact-section {
+    width: 100% !important; /* Ensures full width */
+    max-width: 100% !important;
+    color: #f3f3f3 !important;
+    background-color: transparent !important;
+    margin: 0 auto !important;
+    padding: 20px !important;
+    text-align: left !important;
+    box-sizing: border-box !important;
+}
+.contact-info {
+    display: flex !important;
+    justify-content: space-between !important;
+    margin-top: 20px !important;
+}
+.say-hello-button .btn {
+    display: inline-block !important;
+    padding: 10px 20px !important;
+    background-color: #3c3c3c !important;
+    color: #f3f3f3 !important;
+    text-decoration: none !important;
+    border: 1px solid #666 !important;
+    margin-top: 20px !important;
+}
+.say-hello-button .btn:hover {
+    background-color: #d8a157 !important;
+}
+&lt;/style&gt;
+</description>
     </item>
     
     <item>
@@ -145,7 +264,7 @@ See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/Nahida-
     </item>
     
     <item>
-      <title>Experience</title>
+      <title>Academic Experience</title>
       <link>http://localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/</guid>
