@@ -34,78 +34,61 @@
     </item>
     
     <item>
-      <title>Curriculum Vitae</title>
-      <link>http://localhost:1313/my_resume/</link>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/my_resume/</guid>
-      <description>&lt;h2 id=&#34;profile-picture&#34;&gt;&lt;em&gt;PROFILE PICTURE&lt;/em&gt;&lt;/h2&gt;
-&lt;div style=&#34;text-align: left;&#34;&gt;
-  &lt;img src=&#34;tuska.jpg&#34; alt=&#34;Profile Picture&#34; style=&#34;width:150px; height:150px; border-radius:50%; border: 2px solid #ccc;&#34; /&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;profile&#34;&gt;&lt;em&gt;PROFILE&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;A motivated and results-oriented Computer Science and Engineering student, specializing in web design, AI, and computational graphics. Adept in multiple programming languages including C++ and C. Eager to apply my technical expertise and creativity in real-world projects while continuing to learn and grow.&lt;/p&gt;
-&lt;h2 id=&#34;education&#34;&gt;&lt;em&gt;EDUCATION&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Bachelor of Science in Computer Science and Engineering&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Institution&lt;/em&gt;:  Jahangirnagar University&lt;/li&gt;
-&lt;li&gt;Expected Graduation: 2025&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Higher Secondary Certificate (HSC)&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Institution&lt;/em&gt;: Kushtia Govt. College&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Year&lt;/em&gt;: 2017–2019&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Grade&lt;/em&gt;: GPA 5.0/5.0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Secondary School Certificate (SSC)&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Institution&lt;/em&gt;: Abdalpur High School&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Year&lt;/em&gt;: 2012–2017&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Grade&lt;/em&gt;: GPA 5.0/5.0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;experience&#34;&gt;&lt;em&gt;EXPERIENCE&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Private Tutoring&lt;/em&gt;&lt;br&gt;
-Provided personalized academic support through private tuition, focusing on simplifying complex topics and fostering a deep understanding among students.&lt;/p&gt;
-&lt;h2 id=&#34;languages&#34;&gt;&lt;em&gt;LANGUAGES&lt;/em&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;English: Fluent&lt;/li&gt;
-&lt;li&gt;Bangla: Native&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;skills&#34;&gt;&lt;em&gt;SKILLS&lt;/em&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Programming Languages&lt;/em&gt;: C++, C&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Web Development&lt;/em&gt;: HTML, CSS, JavaScript, Hugo&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Graphics&lt;/em&gt;: OpenGL, GLUT&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Tools &amp;amp; Technologies&lt;/em&gt;: Git, VS Code, GitHub, Git Bash&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Operating Systems&lt;/em&gt;: Linux, Windows&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;contact-me&#34;&gt;&lt;em&gt;CONTACT ME&lt;/em&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Phone&lt;/em&gt;: 01781864628&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Email&lt;/em&gt;: [tuskakhatun6@gmail.com]&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Address&lt;/em&gt;: Savar, Dhaka, Bangladesh&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Survey form</title>
-      <link>http://localhost:1313/project/survey_form/</link>
-      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/survey_form/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis/manipulation library for Python, providing labeled data structures.&lt;/p&gt;
+      <title>Tribute Page</title>
+      <link>http://localhost:1313/project/tribute-page/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tribute-page/</guid>
+      <description>&lt;p&gt;A heartfelt tribute page built with HTML and CSS, dedicated to Prophet Hazrat Muhammad (SAW), highlighting his life and teachings.&lt;/p&gt;
 &lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
 &lt;p&gt;Choose how you want to explore the project:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;View on GitHub&lt;/strong&gt;&lt;br&gt;
-Check out the source code and more on GitHub: &lt;a href=&#34;https://github.com/pandas-dev/pandas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pandas GitHub Repository&lt;/a&gt;.&lt;/p&gt;
+Check out the source code and more on GitHub: &lt;a href=&#34;https://github.com/reshmi-29/Free_Code_Camp/blob/main/Tribute%20page.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tribute Page&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Run on CodePen&lt;/strong&gt;&lt;br&gt;
-See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pandas on CodePen&lt;/a&gt;.&lt;/p&gt;
+See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/Nahida-Akther-Reshmi/full/dyxjqQr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tribute Page&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Enjoy exploring the project in the way that suits you best!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tic-Tac-Toe</title>
+      <link>http://localhost:1313/project/tic-tac-toe/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tic-tac-toe/</guid>
+      <description>&lt;p&gt;An interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript, providing a fun and engaging way to play the classic game.&lt;/p&gt;
+&lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
+&lt;p&gt;Choose how you want to explore the project:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;View on GitHub&lt;/strong&gt;&lt;br&gt;
+Check out the source code and more on GitHub: &lt;a href=&#34;https://github.com/reshmi-29/Tic-Tac-Toe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tic-Tac-Toe Repository&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Run on CodePen&lt;/strong&gt;&lt;br&gt;
+See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/Nahida-Akther-Reshmi/full/PoMByZz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tic-Tac-Toe on CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Enjoy exploring the project in the way that suits you best!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Technical Documentation</title>
+      <link>http://localhost:1313/project/technical_documentation_page/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/technical_documentation_page/</guid>
+      <description>&lt;p&gt;A comprehensive technical documentation page built with HTML and CSS, covering the fundamentals and concepts of data structures and algorithms.&lt;/p&gt;
+&lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/reshmi-29/Free_Code_Camp/tree/main/Technical_Documentation_Page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/strong&gt;: Access the source code.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://codepen.io/Nahida-Akther-Reshmi/full/RwXBeKr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CodePen Demo&lt;/a&gt;&lt;/strong&gt;: See it in action.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Enjoy exploring the project!&lt;/p&gt;
 </description>
     </item>
     
@@ -183,92 +166,81 @@ body, html {
     </item>
     
     <item>
-      <title>Product Landing Page</title>
-      <link>http://localhost:1313/project/product_landing_page/</link>
+      <title>Interactive Digital Journal</title>
+      <link>http://localhost:1313/project/interactive-digital-journal/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/product_landing_page/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis/manipulation library for Python, providing labeled data structures.&lt;/p&gt;
+      <guid>http://localhost:1313/project/interactive-digital-journal/</guid>
+      <description>&lt;p&gt;An innovative Java project for creating and managing a personal journal, designed for simplicity and interactivity.&lt;/p&gt;
 &lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
-&lt;p&gt;Choose how you want to explore the project:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
 &lt;p&gt;&lt;strong&gt;View on GitHub&lt;/strong&gt;&lt;br&gt;
-Check out the source code and more on GitHub: &lt;a href=&#34;https://github.com/pandas-dev/pandas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pandas GitHub Repository&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Run on CodePen&lt;/strong&gt;&lt;br&gt;
-See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pandas on CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
+Check out the source code and more on GitHub: &lt;a href=&#34;https://github.com/reshmi-29/Interactive-Digital-Journal.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Interactive Digital Journal&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Enjoy exploring the project in the way that suits you best!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Technical Documentation</title>
-      <link>http://localhost:1313/project/technical_documentation_page/</link>
+      <title>Personal Expenses and Savings</title>
+      <link>http://localhost:1313/project/personal-expenses-and-savings/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/technical_documentation_page/</guid>
-      <description>&lt;p&gt;Explore the Pandas library, a flexible and powerful tool for data analysis in Python.&lt;/p&gt;
-&lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/pandas-dev/pandas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/strong&gt;: Access the source code.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://codepen.io/Nahida-Akther-Reshmi/full/RwXBeKr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CodePen Demo&lt;/a&gt;&lt;/strong&gt;: See it in action.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Enjoy exploring the project!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tic-Tac-Toe</title>
-      <link>http://localhost:1313/project/tic-tac-toe/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/tic-tac-toe/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis/manipulation library for Python, providing labeled data structures.&lt;/p&gt;
-&lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
-&lt;p&gt;Choose how you want to explore the project:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
+      <guid>http://localhost:1313/project/personal-expenses-and-savings/</guid>
+      <description>&lt;p&gt;A comprehensive C++ project designed for tracking personal expenses and savings, helping users manage their finances effectively.&lt;/p&gt;
+&lt;h2 id=&#34;explore-the-project&#34;&gt;Explore the Project&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;View on GitHub&lt;/strong&gt;&lt;br&gt;
-Check out the source code and more on GitHub: &lt;a href=&#34;https://github.com/pandas-dev/pandas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pandas GitHub Repository&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Run on CodePen&lt;/strong&gt;&lt;br&gt;
-See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/Nahida-Akther-Reshmi/full/PoMByZz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pandas on CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
+Check out the source code and more on GitHub: &lt;a href=&#34;https://github.com/reshmi-29/OOP-Project-Personal-Expenses-and-Savings.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Personal Expenses and Savings&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Enjoy exploring the project in the way that suits you best!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Tribute Page</title>
-      <link>http://localhost:1313/project/tribute-page/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/tribute-page/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis/manipulation library for Python, providing labeled data structures.&lt;/p&gt;
-&lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
-&lt;p&gt;Choose how you want to explore the project:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;View on GitHub&lt;/strong&gt;&lt;br&gt;
-Check out the source code and more on GitHub: &lt;a href=&#34;https://github.com/pandas-dev/pandas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pandas GitHub Repository&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Run on CodePen&lt;/strong&gt;&lt;br&gt;
-See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/Nahida-Akther-Reshmi/full/dyxjqQr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tribute Page&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Enjoy exploring the project in the way that suits you best!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Academic Experience</title>
+      <title>MY RESUME</title>
       <link>http://localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Product Landing Page</title>
+      <link>http://localhost:1313/project/product_landing_page/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/product_landing_page/</guid>
+      <description>&lt;p&gt;An engaging HTML and CSS project focused on showcasing travel photography in a captivating product landing page design.&lt;/p&gt;
+&lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
+&lt;p&gt;Choose how you want to explore the project:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;View on GitHub&lt;/strong&gt;&lt;br&gt;
+Check out the source code and more on GitHub: &lt;a href=&#34;https://github.com/reshmi-29/Free_Code_Camp/tree/main/Product_Landing_Page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Product Landing Page&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Run on CodePen&lt;/strong&gt;&lt;br&gt;
+See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/Nahida-Akther-Reshmi/full/wvVxYee&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Product Landing Page&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Enjoy exploring the project in the way that suits you best!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Survey Form</title>
+      <link>http://localhost:1313/project/survey_form/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/survey_form/</guid>
+      <description>&lt;p&gt;A user-friendly survey form project created with HTML and CSS, designed to gather feedback and preferences on traveling experiences.&lt;/p&gt;
+&lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
+&lt;p&gt;Choose how you want to explore the project:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;View on GitHub&lt;/strong&gt;&lt;br&gt;
+Check out the source code and more on GitHub: &lt;a href=&#34;https://github.com/reshmi-29/Free_Code_Camp/blob/main/Survey_Form.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Survey Form&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Run on CodePen&lt;/strong&gt;&lt;br&gt;
+See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/Nahida-Akther-Reshmi/full/NWQVdKo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Survey Form&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Enjoy exploring the project in the way that suits you best!&lt;/p&gt;
+</description>
     </item>
     
   </channel>

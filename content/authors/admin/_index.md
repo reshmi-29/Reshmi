@@ -1,14 +1,13 @@
 ---
 # Display name
-title: Reshmi
+title: Nahida Akther Reshmi
 
 # Full name (for SEO)
 first_name: Nahida Akther
 last_name: Reshmi
 
 # Status emoji
-status:
-  icon: ☕️
+
 
 # Is this the primary user of the site?
 superuser: true
@@ -17,8 +16,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: CSE Student
+role: Student
 
+# Organizations/Affiliations to display in Biography blox
+organizations:
+  - name: Jahangirnagar University
+    url: https://juniv.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -114,8 +117,6 @@ skills:
   - name: Technical Skills
     items:
       
-     
-     
       - name: C
         description: ''
         percent: 70
@@ -193,13 +194,14 @@ awards:
     certificate_url: https://www.datacamp.com
     date: '2024-11-04'
     awarder: freeCodeCamp
-    
-
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
- 
+      Successfully completed the Responsive Web Design certification from freeCodeCamp. Developed various web projects using HTML, CSS, and Flexbox, focusing on creating fully responsive, mobile-first designs that adapt to various screen sizes.
+
+
+
+
 ---
 
-## About Me
+## ABOUT ME
 
 I'm a passionate individual with a strong interest in technology, coding, and creative projects. I have skills in various programming languages, web development, and data science. I enjoy combining my technical expertise with hobbies like travel photography, gardening, reading books and exploring new ideas. I thrive in solving challenges, learning continuously, and sharing insights that make a difference.

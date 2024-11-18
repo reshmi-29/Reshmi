@@ -23,9 +23,6 @@ main:
   - name: MY RESUME
     url: experience/
     weight: 20
-  - name: CV
-    url: my_resume/
-    weight: 30
   - name: SAY HELLO
     url: contact/
     weight: 40
